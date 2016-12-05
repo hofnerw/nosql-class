@@ -1,47 +1,50 @@
-Avalia��o da apresenta��o do semin�rio em sala de aula
+Avaliação da apresentação do seminário em sala de aula
 
 Grupo 1 - O Mongodb aplicado ao CartolaFC
-- Pricipais t�picos abordados:
+- Pricipais tópicos abordados:
 	- Acesso ao Mongodb
 	- Quantidade de acessos ao banco
 - Bom conhecimento do tema apresentado
 - Nota: 10
 
 Grupo 2 - Ebay utilizando NEO4J
-- Pricipais t�picos abordados:
-	- Log�stica
+- Pricipais tópicos abordados:
+	- Logística
 	- Diferente tipo de banco
-	- Transpar�ncias pesou um pouco, dif�cil de observar
+	- Transparências pesou um pouco, difícil de observar
 - Bom conhecimento do tema
 - Nota: 9,8
 
 Grupo 3 - Leroy Merlim
-- Pricipais t�picos abordados:
-	- Como se deu a implanta��o do Mongodb
+- Pricipais tópicos abordados:
+	- Como se deu a implantação do Mongodb
 	- Dificuldades encontradas
-	- Entrevista com um dos funcion�rios
-- Boa did�tica, bom conhecimento do tema
+	- Entrevista com um dos funcionários
+- Boa didática, bom conhecimento do tema
 Nota: 10
 
-Grupo 4 - Case Telef�nica
-	- V�rios servi�os implantados
+Grupo 4 - Case Telefônica
+- Pricipais tópicos abordados:
+	- Vários serviços implantados
 	- Armazenamento
 	- Performance
-- Boa apresenta��o e conhecimento do tema
+- Boa apresentação e conhecimento do tema
 Nota: 10
 
 Grupo 5 - Nosql na Netflix
+- Pricipais tópicos abordados:
 	- Disponibilidade
 	- Cassandra
-- Pessoal um pouco nervoso, boa apresenta��o
+- Pessoal um pouco nervoso, boa apresentação
 Nota: 9,8
 
-Grupo 6 - Cassandra em dados biol�gicos
+Grupo 6 - Cassandra em dados biológicos
+- Pricipais tópicos abordados:
 	- Armazenamento
 	- Preformance
 	- Processamento
-	- Comparativo em diferentes m�quinas
-- Boa apresenta��o e conhecimento do tema
+	- Comparativo em diferentes máquinas
+- Boa apresentação e conhecimento do tema
 Nota: 10
 
 
