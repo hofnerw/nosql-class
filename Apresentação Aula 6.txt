@@ -45,7 +45,7 @@ Grupo 6 - Cassandra em dados biológicos
 	- Processamento
 	- Comparativo em diferentes máquinas
 - Boa apresentação e conhecimento do tema
-Nota: 10
+Nota: 10 
 
 
 
