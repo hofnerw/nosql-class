@@ -1,0 +1,48 @@
+Avaliação da apresentação do seminário em sala de aula
+
+Grupo 1 - O Mongodb aplicado ao CartolaFC
+- Pricipais tópicos abordados:
+	- Acesso ao Mongodb
+	- Quantidade de acessos ao banco
+- Bom conhecimento do tema apresentado
+- Nota: 10
+
+Grupo 2 - Ebay utilizando NEO4J
+- Pricipais tópicos abordados:
+	- Logística
+	- Diferente tipo de banco
+	- Transparências pesou um pouco, difícil de observar
+- Bom conhecimento do tema
+- Nota: 9,8
+
+Grupo 3 - Leroy Merlim
+- Pricipais tópicos abordados:
+	- Como se deu a implantação do Mongodb
+	- Dificuldades encontradas
+	- Entrevista com um dos funcionários
+- Boa didática, bom conhecimento do tema
+Nota: 10
+
+Grupo 4 - Case Telefônica
+	- Vários serviços implantados
+	- Armazenamento
+	- Performance
+- Boa apresentação e conhecimento do tema
+Nota: 10
+
+Grupo 5 - Nosql na Netflix
+	- Disponibilidade
+	- Cassandra
+- Pessoal um pouco nervoso, boa apresentação
+Nota: 9,8
+
+Grupo 6 - Cassandra em dados biológicos
+	- Armazenamento
+	- Preformance
+	- Processamento
+	- Comparativo em diferentes máquinas
+- Boa apresentação e conhecimento do tema
+Nota: 10
+
+
+
